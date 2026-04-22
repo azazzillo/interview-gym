@@ -23,3 +23,17 @@ class User(Base):
     posts = relationship("Post", back_populates="user")
     tasks = relationship("Task", back_populates="user")
     interview_sessions = relationship("InterviewSession", back_populates="user")
+    posts = relationship(
+    "Post",
+    back_populates="user"
+    )
+
+    comments = relationship(
+        "Comment",
+        back_populates="user"
+    )
+
+    likes = relationship(
+        "PostLike",
+        back_populates="user"
+    )

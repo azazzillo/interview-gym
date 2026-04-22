@@ -13,3 +13,5 @@ from .task_submission import TaskSubmission
 from .task_result import TaskResult
 
 from .post import Post
+from .comment import Comment
+from .post_like import PostLike

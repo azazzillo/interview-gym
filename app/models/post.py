@@ -21,3 +21,14 @@ class Post(Base):
     created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
 
     user = relationship("User", back_populates="posts")
+    comments = relationship(
+    "Comment",
+    back_populates="post",
+    cascade="all, delete-orphan"
+    )
+
+    likes = relationship(
+        "PostLike",
+        back_populates="post",
+        cascade="all, delete-orphan"
+    )
