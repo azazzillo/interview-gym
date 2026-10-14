@@ -1,1 +1,1 @@
-# interview-gym
+# InterviewGYM
