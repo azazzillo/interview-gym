@@ -34,13 +34,13 @@ The AI interviewer asks questions through **audio and on-screen text**. Candidat
 
 ### 2. Interview Analysis
 
-![Interview Analysis](images/img_2.jpg)
+![Interview Analysis](images/img_2.png)
 
 After each interview, users receive a **readiness score**, an analysis of their strengths and weaknesses, and personalized improvement recommendations.
 
 ### 3. Technical Assignments & Code Review
 
-![Technical Assignments and Code Review](images/img_3.jpg)
+![Technical Assignments and Code Review](images/img_3.png)
 
 The AI generates technical assignments based on a GitHub repository. Candidates submit their solutions via a **GitHub link** and receive an automated analysis with a solution accuracy score.
 
