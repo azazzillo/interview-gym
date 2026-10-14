@@ -28,19 +28,19 @@ Paste a link to any GitHub repository and get:
 
 ### 1. Interview Simulation
 
-<img src="images/img_1.jpg" width="600" alt="Interview Simulation">
+<img align="center" src="images/img_1.jpg" width="600" alt="Interview Simulation">
 
 The AI interviewer asks questions through **audio and on-screen text**. Candidates respond by voice, while their video is recorded throughout the interview.
 
 ### 2. Interview Analysis
 
-<img src="images/img_2.png" width="600" alt="Interview Analysis">
+<img align="center" src="images/img_2.png" width="350" alt="Interview Analysis">
 
 After each interview, users receive a **readiness score**, an analysis of their strengths and weaknesses, and personalized improvement recommendations.
 
 ### 3. Technical Assignments & Code Review
 
-<img src="images/img_3.png" width="600" alt="Technical Assignments and Code Review">
+<img align="center" src="images/img_3.png" width="350" alt="Technical Assignments and Code Review">
 
 The AI generates technical assignments based on a GitHub repository. Candidates submit their solutions via a **GitHub link** and receive an automated analysis with a solution accuracy score.
 
